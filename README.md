@@ -4,4 +4,4 @@ Description: This project aims to explore and visualize the trends in COVID-19 i
 
 The primary goal of this project is to provide a clear and informative overview of how infection rates have changed throughout the pandemic. By investigating infection rate trends, we can gain a better understanding of the progress made in managing the pandemic within North American countries.
 
-Tools use for this project: Excel, SQL(, and Tableau
+Tools use for this project: (Excel, SQL, and Tableau).
