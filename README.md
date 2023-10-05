@@ -1,4 +1,4 @@
-#  Infection Rate Trends: A COVID-19 Analysis in North American Countries
+#  Mc Donald's Nutrition Analysis: Healthy vs. Unhealthy Picks
 
 Description: This project aims to explore and visualize the trends in COVID-19 infection rates across various North American countries. By analyzing publicly available data, this project sheds light on how the pandemic has evolved over time and offers insights into the effectiveness of different measures taken to control the spread of the virus.
 
